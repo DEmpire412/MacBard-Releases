@@ -3,12 +3,12 @@
     <channel>
         <title>MacBard</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Mon, 01 Jan 2024 00:42:13 -0500</pubDate>
+            <title>1.1.1</title>
+            <pubDate>Mon, 01 Jan 2024 12:29:37 -0500</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DEmpire412/macbard-releases/releases/download/prod/MacBard.dmg" length="2835599" type="application/octet-stream" sparkle:edSignature="+WlCSCbJc7V2d0MTmlHRS38bFknIGRgsLwRXylwHVgvgu8Rib3w+dYFpvLZLTzi0in5xsnMM7vIgatWT81NZAQ=="/>
+            <enclosure url="https://github.com/DEmpire412/macbard-releases/releases/download/prod/MacBard.dmg" length="2836209" type="application/octet-stream" sparkle:edSignature="ulu1+Spa2iglRkXOP9Nxq3eQxqX463DcBjhI8G4JvCmcxKLwqlWEBrLTU+x1DpbIPa0suAXOTddWsIIBDAO9DA=="/>
         </item>
     </channel>
 </rss>
