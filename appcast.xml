@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MacBard</title>
+        <item>
+            <title>1.1.2</title>
+            <pubDate>Mon, 01 Jan 2024 20:16:17 -0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/DEmpire412/macbard-releases/releases/download/prod/MacBard.dmg" length="2835528" type="application/octet-stream" sparkle:edSignature="eSEjJ+u7NGM0/lTlk8FRR/bmJ9a3NXaBYwakHeVYzw4H8URRpUtnzKWiHcj345k2+mlF2tj+S7Krprs8YQLoBQ=="/>
+        </item>
+    </channel>
+</rss>
