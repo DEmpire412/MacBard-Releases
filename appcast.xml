@@ -3,20 +3,21 @@
     <channel>
         <title>MacBard</title>
         <item>
-            <title>1.2.0.1</title>
-            <pubDate>Wed, 03 Jan 2024 16:46:10 -0500</pubDate>
-            <sparkle:version>1.2.0.1</sparkle:version>
-            <sparkle:shortVersionString>1.2.0.1</sparkle:shortVersionString>
+            <title>1.2.0.2</title>
+            <pubDate>Wed, 03 Jan 2024 17:32:58 -0500</pubDate>
+            <sparkle:version>1.2.0.2</sparkle:version>
+            <sparkle:shortVersionString>1.2.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Window sizes will now stay in position upon closing them, even the Global Window.</li>
+                    <li>Fixed bug with Global Window shortcut causing main window to launch.</li>
+                    <li>New in Version 1.2.0.1, Global Window size is preserved on quit.</li>
                     <li>New in Version 1.2.0, Web view is accessible in the Global Window.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbard-releases/releases/download/prod/MacBard.dmg" length="2845437" type="application/octet-stream" sparkle:edSignature="KSYsu3bgX+dH1cS17iElfZDaFcWspPe1aEBFlKqgibI4+G8eR6ihxEsdVpcyOGPIq3fzmHO6O+iE8lfv4L69CA=="/>
+            <enclosure url="https://github.com/DEmpire412/macbard-releases/releases/download/prod/MacBard.dmg" length="2841524" type="application/octet-stream" sparkle:edSignature="go0JG9HxQwXiShFQMUwLit2/X0SI1a1YvO0ZCrBpA4ou+hy4qRJOdQf2aUVPw80/yvDoxKygDyP6THw64+1ACg=="/>
         </item>
     </channel>
 </rss>
