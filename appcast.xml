@@ -3,20 +3,19 @@
     <channel>
         <title>MacBard</title>
         <item>
-            <title>1.2.1.1</title>
-            <pubDate>Wed, 03 Jan 2024 21:08:15 -0500</pubDate>
-            <sparkle:version>1.2.1.1</sparkle:version>
-            <sparkle:shortVersionString>1.2.1.1</sparkle:shortVersionString>
+            <title>1.2.1.2</title>
+            <pubDate>Wed, 03 Jan 2024 21:39:13 -0500</pubDate>
+            <sparkle:version>1.2.1.2</sparkle:version>
+            <sparkle:shortVersionString>1.2.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Firstly, I apoligize for updating MacBard so much today. I just have so many little features to add to make it a so much better experience.</li>
-                    <li>You can now upload images directly from Finder into the Bard web view.</li>
+                    <li>Last update of the day! I promise, but you'll like this one! Command + W can now be used to close the Global Window.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbard-releases/releases/download/prod/MacBard.dmg" length="2844494" type="application/octet-stream" sparkle:edSignature="wmumOtn3NPXdaDf3niJ4BbBYvFacbyXTYL9/I7S0qCY6A6Yt254Oh9o6L47Jy1pWIqmx19/R6RIT/nxyjSAOAA=="/>
+            <enclosure url="https://github.com/DEmpire412/macbard-releases/releases/download/prod/MacBard.dmg" length="2844898" type="application/octet-stream" sparkle:edSignature="IuuYttDBMaKZCIih1QI0rq5x6nYTks27XZXOQUNgv8P6Ecv7CYAiiq8iPxkxj00edv7m6wa5DKJgWAiyVJHpDw=="/>
         </item>
     </channel>
 </rss>
