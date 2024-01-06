@@ -3,19 +3,21 @@
     <channel>
         <title>MacBard</title>
         <item>
-            <title>1.2.2</title>
-            <pubDate>Thu, 04 Jan 2024 16:34:13 -0500</pubDate>
-            <sparkle:version>1.2.2</sparkle:version>
-            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <title>1.2.3</title>
+            <pubDate>Fri, 05 Jan 2024 21:07:21 -0500</pubDate>
+            <sparkle:version>1.2.3</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Onboarding screen for new users.</li>
+                    <li>Fixed issue preventing global Command + W shortcut from working with MacBard open.</li>
+                    <li>Customizable keyboard shortcut now configurable to open menu bar view.</li>
                 </ul>
             ]]>
             </description>
-            <enclosure url="https://github.com/DEmpire412/macbard-releases/releases/download/prod/MacBard.dmg" length="11652260" type="application/octet-stream" sparkle:edSignature="6vjWXTRoZ64QygxBIFYEnoK3k+sPCXL+fVlonKQDcA1CQDpWeU8yF7PSTqRlnwP53ojkFl0zM3ur0GA7LB80AA=="/>
+            
+            <enclosure url="https://github.com/DEmpire412/macbard-releases/releases/download/prod/MacBard.dmg" length="11653453" type="application/octet-stream" sparkle:edSignature="ziT6J7eTTap/FA3baIBBoCG+ypQ/iezyLJegwVRZw1K2cMJTAYTJGAoBWogMLVjLv9rNXKwQdPc3QUrJS8T4Cg=="/>
         </item>
     </channel>
 </rss>
