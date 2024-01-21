@@ -5,14 +5,14 @@
         <item>
             <title>1.2.3</title>
             <pubDate>Fri, 05 Jan 2024 21:07:21 -0500</pubDate>
-            <sparkle:version>1.2.3</sparkle:version>
-            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <sparkle:version>1.2.8</sparkle:version>
+            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>What's New</h2>
                 <ul>
-                    <li>Fixed issue preventing global Command + W shortcut from working with MacBard open.</li>
-                    <li>Customizable keyboard shortcut now configurable to open menu bar view.</li>
+                    <li>MacBard is now MacBot, a multi-purpose AI client for GPT, Bard, and more.</li>
+                    <li>All MacBard features remain on MacBot, plus much more including a better global view.</li>
                 </ul>
             ]]>
             </description>
