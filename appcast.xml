@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>MacBard</title>
+        <title>MacBot</title>
         <item>
-            <title>1.2.3</title>
+            <title>1.2.8</title>
             <pubDate>Fri, 05 Jan 2024 21:07:21 -0500</pubDate>
             <sparkle:version>1.2.8</sparkle:version>
             <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
