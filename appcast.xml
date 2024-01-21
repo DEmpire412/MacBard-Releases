@@ -17,7 +17,7 @@
             ]]>
             </description>
             
-            <enclosure url="https://github.com/DEmpire412/macbard-releases/releases/download/prod/MacBard.dmg" length="11653453" type="application/octet-stream" sparkle:edSignature="ziT6J7eTTap/FA3baIBBoCG+ypQ/iezyLJegwVRZw1K2cMJTAYTJGAoBWogMLVjLv9rNXKwQdPc3QUrJS8T4Cg=="/>
+            <enclosure url="https://github.com/DEmpire412/macbard-releases/releases/download/prod/macbot.dmg" length="11653453" type="application/octet-stream" sparkle:edSignature="ziT6J7eTTap/FA3baIBBoCG+ypQ/iezyLJegwVRZw1K2cMJTAYTJGAoBWogMLVjLv9rNXKwQdPc3QUrJS8T4Cg=="/>
         </item>
     </channel>
 </rss>
